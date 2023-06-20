@@ -1,0 +1,363 @@
+header, h1, nav{
+    background-color: #fff !important;
+    box-sizing: border-box;
+    height: auto;
+    width: 400%;
+    padding-right: 0px 15px;
+    padding-left: center;
+    margin-right: 40px;
+    margin-left: 40px;
+    line-height: 1.5;
+    color: #212529;
+    text-align: left;
+}
+
+header div.logo{
+    
+}
+
+header div.logo > img.img-fluid{
+    height: 56px;
+    padding-top: 40px;
+    padding-left: 295px;
+    display: flex;
+}
+
+
+body section#menu {
+    margin-top: 0;
+    padding-top: 40px;
+}
+
+.nossa-historia-title{
+padding-bottom: 20px;
+margin-bottom: 0;
+padding-left: 0px;
+margin-left: 3px;
+}
+
+.texto{
+    padding-left: 0;
+    margin-left: 5px;
+}
+
+.conclusão{
+    padding-left: 0;
+    margin-left: 5px;
+}
+
+.Menu{
+    margin-left: 155px;
+    margin-right: 15px;
+    margin-bottom: 15px;
+}
+
+.copy{
+    color: #ecf0f1;
+    padding:0
+    height: 20px;
+    
+}
+
+.Imagens{
+    margin-left: 35px;
+    margin-right: 15px;
+    margin-bottom: 15px;
+    justify-content: space-between;
+}
+
+.Redes{
+    margin-left: 35px;
+    margin-right: 15px;
+    margin-bottom: 15px;
+    justify-content: space-between;
+}
+
+.social-links{
+    margin: 22px;
+    padding: 0;
+}
+
+.Venha h3{
+    margin: 15px 0px 8px;
+    font-size: 15px;
+    padding:0px;
+    color: #0d0d0e;
+    text-decoration: none;
+}
+
+.Descubra{
+    font-size: 12px;
+    margin-left: 0px;
+}
+
+body section#contact{
+    padding-top: 14px;
+    padding-right: 0px;
+    padding-bottom: 14px;
+    padding-left: 0px;
+    margin-left: 50px;
+}
+
+h1 {
+    font-size: 30px;
+    font-family:'Playfair';
+    text-align:left;
+    margin:0 885px 0px;
+    margin-bottom: 120px;
+    display:inline;
+    justify-content: space-between;
+
+}
+
+header,li, nav {
+    display: center;
+    justify-content: center;
+    background-color: #fff !important;
+    box-sizing:6px;
+    padding-right:5px;
+    padding-left: 5px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+section, div, h2, ul {
+    font-family: 'Playfair';
+    margin-top: 80px;
+    display:center;
+    margin-left:center;
+    margin-right:auto;
+    font-size: 16px;
+}
+
+section p {
+    margin-bottom: 116px;
+}
+
+header,
+section h2{
+    font-family: 'Playfair';
+    display:center;
+    margin-left: 12px;
+    font-size: 12px;
+    margin-bottom: 16px;
+}
+
+header,
+section h2 {
+    font-family: 'Playfair';
+    display:center;
+    margin-left: 12px;
+    font-size: 12px;
+    margin-bottom: 16px;
+}
+
+body, li {
+    display: inline;
+    justify-content: space-between;
+    background-color: #fff !important;
+    box-sizing:15px;
+    padding-right: 0px;
+    padding-left: 3px;
+    margin-bottom: 26px;
+}
+
+body, input,textarea {
+    font-family: 'Playfair', sans-serif;
+    display: center;
+}
+
+header {
+    margin: auto;
+    font-family:'Playfair';
+}
+
+section h2{
+    font: #4f2c1d;
+    margin-bottom: 16px;
+    margin-top: 216px;
+    font-family:'Playfair'
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 12px;
+    letter-spacing: -0.02em;
+}
+
+section p {
+    margin-bottom: 116px;
+}
+
+header h1,
+section h2,
+section h3,
+form button{
+    font-family:'Playfair';
+    font-weight: normal;
+    margin-bottom: 116px;
+}
+
+header nav li {
+    display: inline;
+    margin-left: 12px;
+    font-size: 12px;
+}
+
+
+header nav li a {
+    display: inline;
+    margin: center;
+    margin-left: 190px;
+    margin-right: 15px;
+    font-size: 15px;
+    color:#0d0d0e;
+    text-decoration: none;
+    
+
+}
+
+/*ESTILO 3 */
+.container, div {
+    max-width: 1280px;
+    width: 100%;
+    margin: 0 auto;
+    justify-content: space-between;
+}
+
+div, h3{
+    margin-left: 5px;
+    margin-right: 15px;
+    margin-bottom: 15px;
+    font-size: 15px;
+    color:#0d0d0e;
+    text-decoration: none;
+}
+
+
+/* Estilo 4 nossa história*/
+header .container,
+section .container {
+    display: center;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 0,2px;
+    margin-bottom: 10px;
+    height: 1500px;
+}
+
+.contact-container {
+    display: block !important;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.brands-list img {
+    height: 24px;
+}
+
+.brands-list li{
+    display: inline;
+    margin-left: 8px;
+}
+
+section .container{
+    align-items:center;
+}
+
+section {
+    padding: 124px 0;
+}
+
+section h2 {
+    margin-bottom: 60px;
+    color:#050505;
+}
+
+section {
+    color:#0a0a0a
+}
+
+section p {
+margin-bottom: 18px;
+}
+
+/* ESTILO 8*/
+.store-front {
+    margin-right: 32px;
+    background-color:#4f2c1d;
+}
+.social-links img {
+    height: 24px;
+    margin-top: auto;
+    padding-top: 2px;
+    padding-bottom: 0,2px;
+    padding:center;
+    justify-content: space-between;
+}
+.social-links li {
+    display:inline;
+    margin-right:8px;
+    height: 1000px;
+}
+
+.social-links li a{
+    text-decoration: none;
+}
+
+#container .contact {
+    display: block;
+    margin-bottom: 2000px;
+}
+
+.contact-methods{
+    display: flex;
+    justify-content: space-between;
+}
+
+form input,
+form textarea,
+form button{
+    display: block;
+    width: 320px;
+    margin-bottom: 8px;
+    padding:28px;
+    background-color:#4f2c1d;
+}
+
+form textarea{
+    resize: none;
+    height: 180px;
+}
+
+section h3{
+    margin-bottom: 8px;
+}
+
+form button{
+    color: #fff;
+    border:none;
+    cursor: pointer;
+}
+
+form button:hover {
+    background-color: #060607;
+}
+
+input:focus, textarea:focus {
+    outline-color: #d4d4d4;
+}
+
+footer {
+    background-color: #4f2c1d;
+    color:#ecf0f1;
+    padding: 16px;
+    height: auto;
+}
+
+footer b{
+    background-color: #4f2c1d;
+    color:#ecf0f1;
+    padding: 16px;
+    margin-left: 0px;
+    height: auto;
+}
